@@ -5,9 +5,9 @@ using UnityEngine;
 public class Test : MonoBehaviour {
 
 	void Start () {
-        Debug.Log("Test!");
         Debug.Log("Change01");
         Debug.Log("Change02");
+        Debug.Log("Change03");
     }
 
 }
